@@ -3,7 +3,7 @@ Elivator_Interface
 
 Presentation:
 
-1. Tool Used: Axure 
+1. Tool Used: Axure RP
 2. primary function of an elevator implemented?
 a) Open and close door
 b) select floors
